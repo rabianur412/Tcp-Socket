@@ -1,0 +1,16 @@
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.exe
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.deps.json
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.runtimeconfig.json
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.runtimeconfig.dev.json
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.dll
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\ref\TCP_Socket.dll
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net5.0\TCP_Socket.pdb
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.csproj.AssemblyReference.cache
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.AssemblyInfoInputs.cache
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.AssemblyInfo.cs
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.csproj.CoreCompileInputs.cache
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.dll
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\ref\TCP_Socket.dll
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.pdb
+C:\Users\Rabia Nur\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net5.0\TCP_Socket.genruntimeconfig.cache
